@@ -1,5 +1,5 @@
 import React from 'react';
-import { PublicClientApplication, EventType, AuthenticationResult } from '@azure/msal-browser';
+import { PublicClientApplication, AuthenticationResult } from '@azure/msal-browser';
 import { MsalProvider, useMsal, useIsAuthenticated } from '@azure/msal-react';
 
 const msalConfig = {

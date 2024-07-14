@@ -1,4 +1,3 @@
-// src/App.tsx
 import React from 'react';
 import GoogleAuth from './GoogleLogin';
 import MicrosoftAuth from './MicrosoftLogin';
